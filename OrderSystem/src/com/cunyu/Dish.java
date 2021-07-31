@@ -115,7 +115,9 @@ public class Dish implements DishInterface {
      */
     @Override
     public void deleteDish(int id, List<Dish> dishList, List<Dish> orderedList) {
-        orderedList.remove(dishList.get(id - 1));
+        if (!orderedList.isEmpty()) {
+            orderedList.remove(dishList.get(id - 1));
+        }
     }
 
 

@@ -16,7 +16,7 @@ import java.util.Scanner;
  * @email : 747731461@qq.com
  * @公众号 : 村雨遥
  * @website : https://cunyu1943.github.io
- * @description :
+ * @description : 系统主界面
  */
 public class DishApp {
 
