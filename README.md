@@ -13,5 +13,10 @@ Java 实战代码
 - [代码目录](https://github.com/cunyu1943/java-in-actions/tree/main/OrderSystem/src/com/cunyu)
 - [博客](https://mp.weixin.qq.com/s/Qtn6w2AUwAayjYQZiQz5Jg)
 
+### 记账本
+
+- [代码目录](https://github.com/cunyu1943/java-in-actions/tree/main/TallyBook/src/com/cunyu)
+- [博客](https://mp.weixin.qq.com/s/nCE-yEfF6ckw5ufNi9XiyA)
+
 ## Author
 - [@cunyu1943](https://www.github.com/cunyu1943)
